@@ -1,6 +1,6 @@
-## End to End ML Project
+## Diamond Price Prediction
 
-### Created an enviornment
+### Create an Enviornment
 ```
 conda create -p venv python==3.8
 
